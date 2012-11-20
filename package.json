@@ -1,0 +1,11 @@
+{
+  "name": "pomelo-aoi",
+  "version": "0.3.33",
+  "main": "./lib/aoiService",
+  "author": {
+    "name": "XiaogangZhang",
+    "email": "zhang0925@gmail.com"
+  },
+  "dependencies": {
+  }
+}
