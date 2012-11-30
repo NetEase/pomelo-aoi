@@ -49,7 +49,7 @@ The aoi instace has the basic interface for aoi action.
 ``` 
 More api can be find in aoiService.js.
 
-##Hanler aoi event
+##Handle aoi event
 The aoi service will generate event when the status of objects or watchers changes. You can handler these event :
 ``` javascript
 	aoi.on('add', function(params){
