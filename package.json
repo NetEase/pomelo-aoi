@@ -1,6 +1,6 @@
 {
   "name": "pomelo-aoi",
-  "version": "0.3.33",
+  "version": "0.3.34",
   "main": "./lib/aoiService",
   "author": {
     "name": "XiaogangZhang",
